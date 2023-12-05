@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For LCDPanel
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCDPanel	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+detect_i2c	KEYWORD2
+readButtonsA5	KEYWORD2
+getMCP	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BUTTON_FCT_BACK	LITERAL1
+BUTTON_A5	LITERAL1
