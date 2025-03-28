@@ -14,10 +14,8 @@ In addition, controling and enabeling the backlight of LCD is possible.
 - change parameters (I call them CV = Configuration Variable)
 Requested software for this is implemented inside the software for the device.
 
-<img src=Images/LCD-Panel-Device.png><br>
-
-PCB for LCDPanel is available.<br>
-<img src=Images/LCD-Panel-PCB.png><br>
+![LCD-Panel-Device](/Images/LCD-Panel-Device.png)<br>
+![PCB from LCD-Panel-Device](/Images/LCD-Panel-PCB.png)<br>
 Tested on ATmega328.
 
 ### Necessary libraries
